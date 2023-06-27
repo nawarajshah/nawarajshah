@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Code and Course](https://codeandcourse.com/)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **shah.nawaraj.ns@gmail.com**
 
